@@ -1,2 +1,2 @@
-# Alternate_Demo_VerticalSlice
+# Alternate Demo VerticalSlice
 The Vertical Slice for the demo level of "Alternate: Beware the Fallen Rival"
